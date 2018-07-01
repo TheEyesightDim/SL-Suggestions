@@ -1,0 +1,10 @@
+{
+  "output_file": "settings.json",
+  "use_cd": {
+    "type": "checkbox",
+    "value": false,
+    "label": "This is a dummy option with no effect.",
+    "tooltip": "Checking this has no effect.",
+    "group": "Checkboxes"
+  }
+}
